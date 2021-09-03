@@ -13,7 +13,7 @@ import tensorflow as tf
 
 
 
-### ImageDataGenerator로 데이터 증폭시키기
+### ImageDataGenerato r로 데이터 증폭시키기
 imageGen = ImageDataGenerator(
     rescale=1./255,
     horizontal_flip=True,

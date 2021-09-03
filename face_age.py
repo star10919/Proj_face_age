@@ -11,7 +11,7 @@ import time
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 import matplotlib.pyplot as plt
 
-
+ 
 
 ### ImageDataGenerator로 데이터 증폭시키기
 # imageGen = ImageDataGenerator(

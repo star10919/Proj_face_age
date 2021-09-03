@@ -2,7 +2,7 @@ import numpy as np
 
 real = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 age = []
-
+ 
 def real_age():
     for i in range(11):
         if real[i] == 0:
